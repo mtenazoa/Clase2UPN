@@ -29,8 +29,7 @@ namespace Ejercicio1
             Console.ReadKey();
             Console.WriteLine("El sueldo total es: " + sueldo);
             Console.ReadKey();
-            Console.WriteLine("El sueldo total es: " + sueldo);
-            Console.ReadKey();
+           
         }
     }
 }
